@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+canvas {
+  width: 100vw;
+  height: 100vh;
+  image-rendering: pixelated;
+}
+#stats {
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: white;
+  background-color: black;
+  padding: 0.5rem;
+}
