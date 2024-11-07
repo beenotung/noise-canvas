@@ -11,3 +11,5 @@ Hosted on: https://noise-canvas.surge.sh
   - to reset
   - to recalculate canvas resolution
   - to adjust canvas resolution
+  - to disable menu
+  - to hide menu
